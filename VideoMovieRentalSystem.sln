@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoMovieRentalSystem", "VideoMovieRentalSystem\VideoMovieRentalSystem.csproj", "{7A9A9588-DA4B-40BE-902D-17E23FD0EE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoTests", "VideoTests\VideoTests.csproj", "{DCA5FC1C-54B9-421B-998A-EB4A78FB47D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9A9588-DA4B-40BE-902D-17E23FD0EE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9A9588-DA4B-40BE-902D-17E23FD0EE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9A9588-DA4B-40BE-902D-17E23FD0EE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9A9588-DA4B-40BE-902D-17E23FD0EE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA5FC1C-54B9-421B-998A-EB4A78FB47D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA5FC1C-54B9-421B-998A-EB4A78FB47D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA5FC1C-54B9-421B-998A-EB4A78FB47D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA5FC1C-54B9-421B-998A-EB4A78FB47D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07431A74-BD25-435C-ABF6-E568FF83BCDA}
+	EndGlobalSection
+EndGlobal
